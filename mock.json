@@ -1,0 +1,352 @@
+
+{'copyright': 'NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL
+ and its teams. © NHL 2023. All Rights Reserved.', 'teams': {'away': {'team': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, '
+teamStats': {'teamSkaterStats': {'goals': 0, 'pim': 0, 'shots': 0, 'powerPlayPercentage': '0.0', 'powerPlayGoals': 0.0, 'powerPlayOpportunities':
+ 0.0, 'faceOffWinPercentage': '0.0', 'blocked': 0, 'takeaways': 0, 'giveaways': 0, 'hits': 0}}, 'players': {'ID8482073': {'person': {'id': 848207
+3, 'fullName': 'Braden Schneider', 'link': '/api/v1/people/8482073', 'firstName': 'Braden', 'lastName': 'Schneider', 'primaryNumber': '4', 'birth
+Date': '2001-09-20', 'currentAge': 21, 'birthCity': 'Prince Albert', 'birthStateProvince': 'SK', 'birthCountry': 'CAN', 'nationality': 'CAN', 'he
+ight': '6\' 3"', 'weight': 208, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus
+': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman', '
+type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '4', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviat
+ion': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssist
+s': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 
+'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8476918': {'person': {
+'id': 8476918, 'fullName': 'Jimmy Vesey', 'link': '/api/v1/people/8476918', 'firstName': 'Jimmy', 'lastName': 'Vesey', 'primaryNumber': '26', 'bi
+rthDate': '1993-05-26', 'currentAge': 29, 'birthCity': 'Boston', 'birthStateProvince': 'MA', 'birthCountry': 'USA', 'nationality': 'USA', 'height
+': '6\' 3"', 'weight': 202, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': '
+Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'L', 'name': 'Left Wing', 'type'
+: 'Forward', 'abbreviation': 'LW'}}, 'jerseyNumber': '26', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'
+}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'p
+enaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked'
+: 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8470860': {'person': {'id': 847
+0860, 'fullName': 'Jaroslav Halak', 'link': '/api/v1/people/8470860', 'firstName': 'Jaroslav', 'lastName': 'Halak', 'primaryNumber': '41', 'birth
+Date': '1985-05-13', 'currentAge': 37, 'birthCity': 'Bratislava', 'birthCountry': 'SVK', 'nationality': 'SVK', 'height': '5\' 11"', 'weight': 189
+, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 
+3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': '
+G'}}, 'jerseyNumber': '41', 'position': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}, 'stats': {'goalieStats': {'timeOn
+Ice': '0:00', 'assists': 0, 'goals': 0, 'pim': 0, 'shots': 0, 'saves': 0, 'powerPlaySaves': 0, 'shortHandedSaves': 0, 'evenSaves': 0, 'shortHande
+dShotsAgainst': 0, 'evenShotsAgainst': 0, 'powerPlayShotsAgainst': 0}}}, 'ID8478859': {'person': {'id': 8478859, 'fullName': 'Niko Mikkola', 'lin
+k': '/api/v1/people/8478859', 'firstName': 'Niko', 'lastName': 'Mikkola', 'primaryNumber': '77', 'birthDate': '1996-04-27', 'currentAge': 26, 'bi
+rthCity': 'Kiiminki', 'birthCountry': 'FIN', 'nationality': 'FIN', 'height': '6\' 4"', 'weight': 209, 'active': True, 'alternateCaptain': False, 
+'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/
+v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '77', 'position
+': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, '
+goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaway
+s': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce
+': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8475765': {'person': {'id': 8475765, 'fullName': 'Vladimir Tarasenko', 'link': '/api/v1/people/8
+475765', 'firstName': 'Vladimir', 'lastName': 'Tarasenko', 'primaryNumber': '91', 'birthDate': '1991-12-13', 'currentAge': 31, 'birthCity': 'Yaro
+slavl', 'birthCountry': 'RUS', 'nationality': 'RUS', 'height': '6\' 1"', 'weight': 228, 'active': True, 'alternateCaptain': False, 'captain': Fal
+se, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 
+'primaryPosition': {'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '91', 'position': {'code': 'R',
+ 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots'
+: 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways'
+: 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortH
+andedTimeOnIce': '0:00'}}}, 'ID8476624': {'person': {'id': 8476624, 'fullName': 'Barclay Goodrow', 'link': '/api/v1/people/8476624', 'firstName':
+ 'Barclay', 'lastName': 'Goodrow', 'primaryNumber': '21', 'birthDate': '1993-02-26', 'currentAge': 30, 'birthCity': 'Toronto', 'birthStateProvinc
+e': 'ON', 'birthCountry': 'CAN', 'nationality': 'CAN', 'height': '6\' 2"', 'weight': 204, 'active': True, 'alternateCaptain': True, 'captain': Fa
+lse, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'},
+ 'primaryPosition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '21', 'position': {'code': 'C', 'na
+me': 'Center', 'type': 'Forward', 'abbreviation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hit
+s': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'sho
+rtHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTime
+OnIce': '0:00'}}}, 'ID8476459': {'person': {'id': 8476459, 'fullName': 'Mika Zibanejad', 'link': '/api/v1/people/8476459', 'firstName': 'Mika', '
+lastName': 'Zibanejad', 'primaryNumber': '93', 'birthDate': '1993-04-18', 'currentAge': 29, 'birthCity': 'Stockholm', 'birthCountry': 'SWE', 'nat
+ionality': 'SWE', 'height': '6\' 2"', 'weight': 202, 'active': True, 'alternateCaptain': True, 'captain': False, 'rookie': False, 'shootsCatches'
+: 'R', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'C', 'na
+me': 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '93', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'ab
+breviation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPla
+yAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssist
+s': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8477433': {'per
+son': {'id': 8477433, 'fullName': 'Ben Harpur', 'link': '/api/v1/people/8477433', 'firstName': 'Ben', 'lastName': 'Harpur', 'primaryNumber': '5',
+ 'birthDate': '1995-01-12', 'currentAge': 28, 'birthCity': 'Hamilton', 'birthStateProvince': 'ON', 'birthCountry': 'CAN', 'nationality': 'CAN', '
+height': '6\' 6"', 'weight': 231, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStat
+us': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman',
+ 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '5', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbrevi
+ation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssi
+sts': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0
+, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8482109': {'person':
+ {'id': 8482109, 'fullName': 'Alexis Lafrenière', 'link': '/api/v1/people/8482109', 'firstName': 'Alexis', 'lastName': 'Lafrenière', 'primaryNumb
+er': '13', 'birthDate': '2001-10-11', 'currentAge': 21, 'birthCity': 'St-Eustache', 'birthStateProvince': 'QC', 'birthCountry': 'CAN', 'nationali
+ty': 'CAN', 'height': '6\' 1"', 'weight': 195, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L'
+, 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'L', 'name': 
+'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}}, 'jerseyNumber': '13', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', '
+abbreviation': 'LW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'power
+PlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAss
+ists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8474141': {'
+person': {'id': 8474141, 'fullName': 'Patrick Kane', 'link': '/api/v1/people/8474141', 'firstName': 'Patrick', 'lastName': 'Kane', 'primaryNumber
+': '88', 'birthDate': '1988-11-19', 'currentAge': 34, 'birthCity': 'Buffalo', 'birthStateProvince': 'NY', 'birthCountry': 'USA', 'nationality': '
+USA', 'height': '5\' 10"', 'weight': 177, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'ro
+sterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'R', 'name': 'Righ
+t Wing', 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '88', 'position': {'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abb
+reviation': 'RW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPla
+yAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssist
+s': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8478048': {'per
+son': {'id': 8478048, 'fullName': 'Igor Shesterkin', 'link': '/api/v1/people/8478048', 'firstName': 'Igor', 'lastName': 'Shesterkin', 'primaryNum
+ber': '31', 'birthDate': '1995-12-30', 'currentAge': 27, 'birthCity': 'Moscow', 'birthCountry': 'RUS', 'nationality': 'RUS', 'height': '6\' 1"', 
+'weight': 189, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentT
+eam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abb
+reviation': 'G'}}, 'jerseyNumber': '31', 'position': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}, 'stats': {'goalieSta
+ts': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'pim': 0, 'shots': 0, 'saves': 0, 'powerPlaySaves': 0, 'shortHandedSaves': 0, 'evenSaves': 0
+, 'shortHandedShotsAgainst': 0, 'evenShotsAgainst': 0, 'powerPlayShotsAgainst': 0}}}, 'ID8476389': {'person': {'id': 8476389, 'fullName': 'Vincen
+t Trocheck', 'link': '/api/v1/people/8476389', 'firstName': 'Vincent', 'lastName': 'Trocheck', 'primaryNumber': '16', 'birthDate': '1993-07-11', 
+'currentAge': 29, 'birthCity': 'Pittsburgh', 'birthStateProvince': 'PA', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '5\' 11"', 'weigh
+t': 184, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus': 'Y', 'currentTeam': 
+{'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbrevia
+tion': 'C'}}, 'jerseyNumber': '16', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}, 'stats': {'skaterStats':
+ {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOff
+Wins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenT
+imeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8479324': {'person': {'id': 8479324, 'fullName': 'Ryan Lin
+dgren', 'link': '/api/v1/people/8479324', 'firstName': 'Ryan', 'lastName': 'Lindgren', 'primaryNumber': '55', 'birthDate': '1998-02-11', 'current
+Age': 25, 'birthCity': 'Burnsville', 'birthStateProvince': 'MN', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '6\' 0"', 'weight': 190, 
+'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3,
+ 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviati
+on': 'D'}}, 'jerseyNumber': '55', 'position': {'code': 'N/A', 'name': 'Unknown', 'type': 'Unknown', 'abbreviation': 'N/A'}, 'stats': {}}, 'ID8476
+885': {'person': {'id': 8476885, 'fullName': 'Jacob Trouba', 'link': '/api/v1/people/8476885', 'firstName': 'Jacob', 'lastName': 'Trouba', 'prima
+ryNumber': '8', 'birthDate': '1994-02-26', 'currentAge': 29, 'birthCity': 'Rochester', 'birthStateProvince': 'MI', 'birthCountry': 'USA', 'nation
+ality': 'USA', 'height': '6\' 3"', 'weight': 203, 'active': True, 'alternateCaptain': False, 'captain': True, 'rookie': False, 'shootsCatches': '
+R', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name'
+: 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '8', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defens
+eman', 'abbreviation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0,
+ 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHa
+ndedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID84751
+84': {'person': {'id': 8475184, 'fullName': 'Chris Kreider', 'link': '/api/v1/people/8475184', 'firstName': 'Chris', 'lastName': 'Kreider', 'prim
+aryNumber': '20', 'birthDate': '1991-04-30', 'currentAge': 31, 'birthCity': 'Boxford', 'birthStateProvince': 'MA', 'birthCountry': 'USA', 'nation
+ality': 'USA', 'height': '6\' 3"', 'weight': 230, 'active': True, 'alternateCaptain': True, 'captain': False, 'rookie': False, 'shootsCatches': '
+L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'L', 'name'
+: 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}}, 'jerseyNumber': '20', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward',
+ 'abbreviation': 'LW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'pow
+erPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedA
+ssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8478550': 
+{'person': {'id': 8478550, 'fullName': 'Artemi Panarin', 'link': '/api/v1/people/8478550', 'firstName': 'Artemi', 'lastName': 'Panarin', 'primary
+Number': '10', 'birthDate': '1991-10-30', 'currentAge': 31, 'birthCity': 'Korkino', 'birthCountry': 'RUS', 'nationality': 'RUS', 'height': '6\' 0
+"', 'weight': 173, 'active': True, 'alternateCaptain': True, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus': 'Y', 'curre
+ntTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward
+', 'abbreviation': 'LW'}}, 'jerseyNumber': '10', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}, 'stats'
+: {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinu
+tes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plus
+Minus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8479323': {'person': {'id': 8479323, 'ful
+lName': 'Adam Fox', 'link': '/api/v1/people/8479323', 'firstName': 'Adam', 'lastName': 'Fox', 'primaryNumber': '23', 'birthDate': '1998-02-17', '
+currentAge': 25, 'birthCity': 'Jericho', 'birthStateProvince': 'NY', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '5\' 11"', 'weight': 
+182, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus': 'Y', 'currentTeam': {'id
+': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbre
+viation': 'D'}}, 'jerseyNumber': '23', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}, 'stats': {'ska
+terStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0
+, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus':
+ 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8477353': {'person': {'id': 8477353, 'fullName':
+ 'Tyler Motte', 'link': '/api/v1/people/8477353', 'firstName': 'Tyler', 'lastName': 'Motte', 'primaryNumber': '14', 'birthDate': '1995-03-10', 'c
+urrentAge': 28, 'birthCity': 'St. Clair', 'birthStateProvince': 'MI', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '5\' 10"', 'weight':
+ 192, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'i
+d': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviatio
+n': 'C'}}, 'jerseyNumber': '14', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}, 'stats': {'skaterStats': {'
+timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWin
+s': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTime
+OnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8480817': {'person': {'id': 8480817, 'fullName': "K'Andre Mil
+ler", 'link': '/api/v1/people/8480817', 'firstName': "K'Andre", 'lastName': 'Miller', 'primaryNumber': '79', 'birthDate': '2000-01-21', 'currentA
+ge': 23, 'birthCity': 'St. Paul', 'birthStateProvince': 'MN', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '6\' 5"', 'weight': 215, 'ac
+tive': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'n
+ame': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation'
+: 'D'}}, 'jerseyNumber': '79', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}, 'stats': {'skaterStats
+': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceO
+ffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'eve
+nTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8480078': {'person': {'id': 8480078, 'fullName': 'Filip 
+Chytil', 'link': '/api/v1/people/8480078', 'firstName': 'Filip', 'lastName': 'Chytil', 'primaryNumber': '72', 'birthDate': '1999-09-05', 'current
+Age': 23, 'birthCity': 'Kromeriz', 'birthCountry': 'CZE', 'nationality': 'CZE', 'height': '6\' 2"', 'weight': 204, 'active': True, 'alternateCapt
+ain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', '
+link': '/api/v1/teams/3'}, 'primaryPosition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '72', 'po
+sition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'g
+oals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways
+': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce'
+: '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8481554': {'person': {'id': 8481554, 'fullName': 'Kaapo Kakko', 'link': '/api/v1/people/8481554',
+ 'firstName': 'Kaapo', 'lastName': 'Kakko', 'primaryNumber': '24', 'birthDate': '2001-02-13', 'currentAge': 22, 'birthCity': 'Turku', 'birthCount
+ry': 'FIN', 'nationality': 'FIN', 'height': '6\' 2"', 'weight': 206, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False
+, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3'}, 'primaryPosition': 
+{'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '24', 'position': {'code': 'R', 'name': 'Right Win
+g', 'type': 'Forward', 'abbreviation': 'RW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'po
+werPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGo
+als': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0
+:00'}}}}, 'goalies': [8478048, 8470860], 'skaters': [8482073, 8477433, 8476885, 8478550, 8482109, 8477353, 8476389, 8475184, 8476624, 8479323, 84
+81554, 8476918, 8480078, 8478859, 8480817, 8474141, 8475765, 8476459, 8479324], 'onIce': [], 'onIcePlus': [], 'scratches': [8479324], 'penaltyBox
+': [], 'coaches': [{'person': {'fullName': 'Gerard Gallant', 'link': '/api/v1/people/null'}, 'position': {'code': 'HC', 'name': 'Head Coach', 'ty
+pe': 'Head Coach', 'abbreviation': 'Head Coach'}}]}, 'home': {'team': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'tea
+mStats': {'teamSkaterStats': {'goals': 0, 'pim': 0, 'shots': 0, 'powerPlayPercentage': '0.0', 'powerPlayGoals': 0.0, 'powerPlayOpportunities': 0.
+0, 'faceOffWinPercentage': '0.0', 'blocked': 0, 'takeaways': 0, 'giveaways': 0, 'hits': 0}}, 'players': {'ID8481064': {'person': {'id': 8481064, 
+'fullName': 'Mitchell Gibson', 'link': '/api/v1/people/8481064', 'firstName': 'Mitchell', 'lastName': 'Gibson', 'primaryNumber': '78', 'birthDate
+': '1999-06-25', 'currentAge': 23, 'birthCity': 'Phoenixville', 'birthStateProvince': 'PA', 'birthCountry': 'USA', 'nationality': 'USA', 'height'
+: '6\' 1"', 'weight': 188, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': True, 'shootsCatches': 'L', 'rosterStatus': 'Y'
+, 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'G', 'name': 'Goalie', 'type'
+: 'Goalie', 'abbreviation': 'G'}}, 'jerseyNumber': '78', 'position': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}, 'sta
+ts': {'goalieStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'pim': 0, 'shots': 0, 'saves': 0, 'powerPlaySaves': 0, 'shortHandedSaves': 0
+, 'evenSaves': 0, 'shortHandedShotsAgainst': 0, 'evenShotsAgainst': 0, 'powerPlayShotsAgainst': 0}}}, 'ID8477947': {'person': {'id': 8477947, 'fu
+llName': 'Sonny Milano', 'link': '/api/v1/people/8477947', 'firstName': 'Sonny', 'lastName': 'Milano', 'primaryNumber': '15', 'birthDate': '1996-
+05-12', 'currentAge': 26, 'birthCity': 'Massapequa', 'birthStateProvince': 'NY', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '6\' 0"',
+ 'weight': 194, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'current
+Team': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'L', 'name': 'Left Wing', 'type': 'Forw
+ard', 'abbreviation': 'LW'}}, 'jerseyNumber': '15', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}, 'sta
+ts': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyM
+inutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'p
+lusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8475625': {'person': {'id': 8475625, '
+fullName': 'Matt Irwin', 'link': '/api/v1/people/8475625', 'firstName': 'Matt', 'lastName': 'Irwin', 'primaryNumber': '52', 'birthDate': '1987-11
+-29', 'currentAge': 35, 'birthCity': 'Victoria', 'birthStateProvince': 'BC', 'birthCountry': 'CAN', 'nationality': 'CAN', 'height': '6\' 2"', 'we
+ight': 200, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam
+': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman', 'type': 'Defense
+man', 'abbreviation': 'D'}}, 'jerseyNumber': '52', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}, 's
+tats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penalt
+yMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 
+'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8477979': {'person': {'id': 8477979,
+ 'fullName': 'Nicolas Aube-Kubel', 'link': '/api/v1/people/8477979', 'firstName': 'Nicolas', 'lastName': 'Aube-Kubel', 'primaryNumber': '96', 'bi
+rthDate': '1996-05-10', 'currentAge': 26, 'birthCity': 'Slave Lake', 'birthStateProvince': 'AB', 'birthCountry': 'CAN', 'nationality': 'CAN', 'he
+ight': '6\' 0"', 'weight': 207, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus
+': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'R', 'name': 'Right Win
+g', 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '96', 'position': {'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbrevia
+tion': 'RW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssi
+sts': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0
+, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8477839': {'person':
+ {'id': 8477839, 'fullName': 'Conor Sheary', 'link': '/api/v1/people/8477839', 'firstName': 'Conor', 'lastName': 'Sheary', 'primaryNumber': '73',
+ 'birthDate': '1992-06-08', 'currentAge': 30, 'birthCity': 'Winchester', 'birthStateProvince': 'MA', 'birthCountry': 'USA', 'nationality': 'USA',
+ 'height': '5\' 9"', 'weight': 179, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterSt
+atus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'L', 'name': 'Left 
+Wing', 'type': 'Forward', 'abbreviation': 'LW'}}, 'jerseyNumber': '73', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbrev
+iation': 'LW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAs
+sists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists':
+ 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8475324': {'person
+': {'id': 8475324, 'fullName': 'Nick Jensen', 'link': '/api/v1/people/8475324', 'firstName': 'Nick', 'lastName': 'Jensen', 'primaryNumber': '3', 
+'birthDate': '1990-09-21', 'currentAge': 32, 'birthCity': 'Rogers', 'birthStateProvince': 'MN', 'birthCountry': 'USA', 'nationality': 'USA', 'hei
+ght': '6\' 1"', 'weight': 205, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus'
+: 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'D', 'name': 'Defenseman
+', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '3', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbre
+viation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAs
+sists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists':
+ 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8475225': {'person
+': {'id': 8475225, 'fullName': 'Craig Smith', 'link': '/api/v1/people/8475225', 'firstName': 'Craig', 'lastName': 'Smith', 'primaryNumber': '16',
+ 'birthDate': '1989-09-05', 'currentAge': 33, 'birthCity': 'Madison', 'birthStateProvince': 'WI', 'birthCountry': 'USA', 'nationality': 'USA', 'h
+eight': '6\' 0"', 'weight': 204, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatu
+s': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'C', 'name': 'Center',
+ 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '16', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': '
+C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 
+'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocke
+d': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8471214': {'person': {'id': 8
+471214, 'fullName': 'Alex Ovechkin', 'link': '/api/v1/people/8471214', 'firstName': 'Alex', 'lastName': 'Ovechkin', 'primaryNumber': '8', 'birthD
+ate': '1985-09-17', 'currentAge': 37, 'birthCity': 'Moscow', 'birthCountry': 'RUS', 'nationality': 'RUS', 'height': '6\' 3"', 'weight': 238, 'act
+ive': True, 'alternateCaptain': False, 'captain': True, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'na
+me': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation':
+ 'LW'}}, 'jerseyNumber': '8', 'position': {'code': 'L', 'name': 'Left Wing', 'type': 'Forward', 'abbreviation': 'LW'}, 'stats': {'skaterStats': {
+'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWi
+ns': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTim
+eOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8475744': {'person': {'id': 8475744, 'fullName': 'Evgeny Kuz
+netsov', 'link': '/api/v1/people/8475744', 'firstName': 'Evgeny', 'lastName': 'Kuznetsov', 'primaryNumber': '92', 'birthDate': '1992-05-19', 'cur
+rentAge': 30, 'birthCity': 'Chelyabinsk', 'birthCountry': 'RUS', 'nationality': 'RUS', 'height': '6\' 2"', 'weight': 207, 'active': True, 'altern
+ateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington C
+apitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber
+': '92', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'ass
+ists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0
+, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPl
+ayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8471698': {'person': {'id': 8471698, 'fullName': 'T.J. Oshie', 'link': '/api/v1/peopl
+e/8471698', 'firstName': 'T.J.', 'lastName': 'Oshie', 'primaryNumber': '77', 'birthDate': '1986-12-23', 'currentAge': 36, 'birthCity': 'Everett',
+ 'birthStateProvince': 'WA', 'birthCountry': 'USA', 'nationality': 'USA', 'height': '6\' 0"', 'weight': 187, 'active': True, 'alternateCaptain': 
+False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'li
+nk': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '77',
+ 'position': {'code': 'N/A', 'name': 'Unknown', 'type': 'Unknown', 'abbreviation': 'N/A'}, 'stats': {}}, 'ID8477845': {'person': {'id': 8477845, 
+'fullName': 'Trevor van Riemsdyk', 'link': '/api/v1/people/8477845', 'firstName': 'Trevor', 'lastName': 'van Riemsdyk', 'primaryNumber': '57', 'b
+irthDate': '1991-07-24', 'currentAge': 31, 'birthCity': 'Middletown', 'birthStateProvince': 'NJ', 'birthCountry': 'USA', 'nationality': 'USA', 'h
+eight': '6\' 3"', 'weight': 191, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatu
+s': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'D', 'name': 'Defensem
+an', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '57', 'position': {'code': 'N/A', 'name': 'Unknown', 'type': 'Unknown', 'abbrev
+iation': 'N/A'}, 'stats': {}}, 'ID8475343': {'person': {'id': 8475343, 'fullName': 'Nic Dowd', 'link': '/api/v1/people/8475343', 'firstName': 'Ni
+c', 'lastName': 'Dowd', 'primaryNumber': '26', 'birthDate': '1990-05-27', 'currentAge': 32, 'birthCity': 'Huntsville', 'birthStateProvince': 'AL'
+, 'birthCountry': 'USA', 'nationality': 'USA', 'height': '6\' 1"', 'weight': 193, 'active': True, 'alternateCaptain': False, 'captain': False, 'r
+ookie': False, 'shootsCatches': 'R', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, '
+primaryPosition': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '26', 'position': {'code': 'C', 'name
+': 'Center', 'type': 'Forward', 'abbreviation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits'
+: 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'short
+HandedGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOn
+Ice': '0:00'}}}, 'ID8480823': {'person': {'id': 8480823, 'fullName': 'Alexander Alexeyev', 'link': '/api/v1/people/8480823', 'firstName': 'Alexan
+der', 'lastName': 'Alexeyev', 'primaryNumber': '27', 'birthDate': '1999-11-15', 'currentAge': 23, 'birthCity': 'St. Petersburg', 'birthCountry': 
+'RUS', 'nationality': 'RUS', 'height': '6\' 4"', 'weight': 213, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': True, 'sho
+otsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {
+'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '27', 'position': {'code': 'D', 'name': 'Defensem
+an', 'type': 'Defenseman', 'abbreviation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 
+'powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHande
+dGoals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce':
+ '0:00'}}}, 'ID8475311': {'person': {'id': 8475311, 'fullName': 'Darcy Kuemper', 'link': '/api/v1/people/8475311', 'firstName': 'Darcy', 'lastNam
+e': 'Kuemper', 'primaryNumber': '35', 'birthDate': '1990-05-05', 'currentAge': 32, 'birthCity': 'Saskatoon', 'birthStateProvince': 'SK', 'birthCo
+untry': 'CAN', 'nationality': 'CAN', 'height': '6\' 5"', 'weight': 215, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': Fa
+lse, 'shootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPos
+ition': {'code': 'G', 'name': 'Goalie', 'type': 'Goalie', 'abbreviation': 'G'}}, 'jerseyNumber': '35', 'position': {'code': 'G', 'name': 'Goalie'
+, 'type': 'Goalie', 'abbreviation': 'G'}, 'stats': {'goalieStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'pim': 0, 'shots': 0, 'saves':
+ 0, 'powerPlaySaves': 0, 'shortHandedSaves': 0, 'evenSaves': 0, 'shortHandedShotsAgainst': 0, 'evenShotsAgainst': 0, 'powerPlayShotsAgainst': 0}}
+}, 'ID8477511': {'person': {'id': 8477511, 'fullName': 'Anthony Mantha', 'link': '/api/v1/people/8477511', 'firstName': 'Anthony', 'lastName': 'M
+antha', 'primaryNumber': '39', 'birthDate': '1994-09-16', 'currentAge': 28, 'birthCity': 'Longueuil', 'birthStateProvince': 'QC', 'birthCountry':
+ 'CAN', 'nationality': 'CAN', 'height': '6\' 5"', 'weight': 234, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 's
+hootsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition':
+ {'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '39', 'position': {'code': 'R', 'name': 'Right Wi
+ng', 'type': 'Forward', 'abbreviation': 'RW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'p
+owerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedG
+oals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '
+0:00'}}}, 'ID8473563': {'person': {'id': 8473563, 'fullName': 'Nicklas Backstrom', 'link': '/api/v1/people/8473563', 'firstName': 'Nicklas', 'las
+tName': 'Backstrom', 'primaryNumber': '19', 'birthDate': '1987-11-23', 'currentAge': 35, 'birthCity': 'Gävle', 'birthCountry': 'SWE', 'nationalit
+y': 'SWE', 'height': '6\' 1"', 'weight': 202, 'active': True, 'alternateCaptain': True, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 
+'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'C', 'name
+': 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '19', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbr
+eviation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayA
+ssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists'
+: 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8474590': {'perso
+n': {'id': 8474590, 'fullName': 'John Carlson', 'link': '/api/v1/people/8474590', 'firstName': 'John', 'lastName': 'Carlson', 'primaryNumber': '7
+4', 'birthDate': '1990-01-10', 'currentAge': 33, 'birthCity': 'Natick', 'birthStateProvince': 'MA', 'birthCountry': 'USA', 'nationality': 'USA', 
+'height': '6\' 3"', 'weight': 215, 'active': True, 'alternateCaptain': True, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStat
+us': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'D', 'name': 'Defense
+man', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '74', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'a
+bbreviation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPl
+ayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssis
+ts': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8478440': {'pe
+rson': {'id': 8478440, 'fullName': 'Dylan Strome', 'link': '/api/v1/people/8478440', 'firstName': 'Dylan', 'lastName': 'Strome', 'primaryNumber':
+ '17', 'birthDate': '1997-03-07', 'currentAge': 26, 'birthCity': 'Mississauga', 'birthStateProvince': 'ON', 'birthCountry': 'CAN', 'nationality':
+ 'CAN', 'height': '6\' 3"', 'weight': 200, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'r
+osterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'C', 'name':
+ 'Center', 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '17', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbrev
+iation': 'C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAss
+ists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 
+0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8476880': {'person'
+: {'id': 8476880, 'fullName': 'Tom Wilson', 'link': '/api/v1/people/8476880', 'firstName': 'Tom', 'lastName': 'Wilson', 'primaryNumber': '43', 'b
+irthDate': '1994-03-29', 'currentAge': 29, 'birthCity': 'Toronto', 'birthStateProvince': 'ON', 'birthCountry': 'CAN', 'nationality': 'CAN', 'heig
+ht': '6\' 4"', 'weight': 220, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'rosterStatus':
+ 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'R', 'name': 'Right Wing'
+, 'type': 'Forward', 'abbreviation': 'RW'}}, 'jerseyNumber': '43', 'position': {'code': 'R', 'name': 'Right Wing', 'type': 'Forward', 'abbreviati
+on': 'RW'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssist
+s': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 
+'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, 'ID8479292': {'person': {
+'id': 8479292, 'fullName': 'Charlie Lindgren', 'link': '/api/v1/people/8479292', 'firstName': 'Charlie', 'lastName': 'Lindgren', 'primaryNumber':
+ '79', 'birthDate': '1993-12-18', 'currentAge': 29, 'birthCity': 'Lakeville', 'birthStateProvince': 'MN', 'birthCountry': 'USA', 'nationality': '
+USA', 'height': '6\' 2"', 'weight': 179, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'R', 'ros
+terStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'G', 'name': '
+Goalie', 'type': 'Goalie', 'abbreviation': 'G'}}, 'jerseyNumber': '79', 'position': {'code': 'N/A', 'name': 'Unknown', 'type': 'Unknown', 'abbrev
+iation': 'N/A'}, 'stats': {}}, 'ID8480873': {'person': {'id': 8480873, 'fullName': 'Rasmus Sandin', 'link': '/api/v1/people/8480873', 'firstName'
+: 'Rasmus', 'lastName': 'Sandin', 'primaryNumber': '38', 'birthDate': '2000-03-07', 'currentAge': 23, 'birthCity': 'Uppsala', 'birthCountry': 'SW
+E', 'nationality': 'SWE', 'height': '5\' 11"', 'weight': 182, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shoo
+tsCatches': 'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'
+code': 'D', 'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '38', 'position': {'code': 'D', 'name': 'Defensema
+n', 'type': 'Defenseman', 'abbreviation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, '
+powerPlayGoals': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHanded
+Goals': 0, 'shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': 
+'0:00'}}}, 'ID8480796': {'person': {'id': 8480796, 'fullName': 'Martin Fehervary', 'link': '/api/v1/people/8480796', 'firstName': 'Martin', 'last
+Name': 'Fehervary', 'primaryNumber': '42', 'birthDate': '1999-10-06', 'currentAge': 23, 'birthCity': 'Bratislava', 'birthCountry': 'SVK', 'nation
+ality': 'SVK', 'height': '6\' 2"', 'weight': 199, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 
+'L', 'rosterStatus': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'D', 
+'name': 'Defenseman', 'type': 'Defenseman', 'abbreviation': 'D'}}, 'jerseyNumber': '42', 'position': {'code': 'D', 'name': 'Defenseman', 'type': 
+'Defenseman', 'abbreviation': 'D'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoa
+ls': 0, 'powerPlayAssists': 0, 'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, '
+shortHandedAssists': 0, 'blocked': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}, '
+ID8481656': {'person': {'id': 8481656, 'fullName': 'Aliaksei Protas', 'link': '/api/v1/people/8481656', 'firstName': 'Aliaksei', 'lastName': 'Pro
+tas', 'primaryNumber': '59', 'birthDate': '2001-01-06', 'currentAge': 22, 'birthCity': 'Vitebsk', 'birthCountry': 'BLR', 'nationality': 'BLR', 'h
+eight': '6\' 6"', 'weight': 225, 'active': True, 'alternateCaptain': False, 'captain': False, 'rookie': False, 'shootsCatches': 'L', 'rosterStatu
+s': 'Y', 'currentTeam': {'id': 15, 'name': 'Washington Capitals', 'link': '/api/v1/teams/15'}, 'primaryPosition': {'code': 'C', 'name': 'Center',
+ 'type': 'Forward', 'abbreviation': 'C'}}, 'jerseyNumber': '59', 'position': {'code': 'C', 'name': 'Center', 'type': 'Forward', 'abbreviation': '
+C'}, 'stats': {'skaterStats': {'timeOnIce': '0:00', 'assists': 0, 'goals': 0, 'shots': 0, 'hits': 0, 'powerPlayGoals': 0, 'powerPlayAssists': 0, 
+'penaltyMinutes': 0, 'faceOffWins': 0, 'faceoffTaken': 0, 'takeaways': 0, 'giveaways': 0, 'shortHandedGoals': 0, 'shortHandedAssists': 0, 'blocke
+d': 0, 'plusMinus': 0, 'evenTimeOnIce': '0:00', 'powerPlayTimeOnIce': '0:00', 'shortHandedTimeOnIce': '0:00'}}}}, 'goalies': [8475311, 8481064], 
+'skaters': [8475324, 8471214, 8477947, 8475225, 8478440, 8473563, 8475343, 8480823, 8480873, 8477511, 8480796, 8476880, 8475625, 8481656, 8477839
+, 8474590, 8475744, 8477979, 8477845, 8471698, 8479292], 'onIce': [], 'onIcePlus': [], 'scratches': [8477845, 8471698, 8479292], 'penaltyBox': []
+, 'coaches': [{'person': {'fullName': 'Peter Laviolette', 'link': '/api/v1/people/null'}, 'position': {'code': 'HC', 'name': 'Head Coach', 'type'
+: 'Head Coach', 'abbreviation': 'Head Coach'}}]}}, 'officials': [{'official': {'id': 2490, 'fullName': "Frederick L'Ecuyer", 'link': '/api/v1/peo
+ple/2490'}, 'officialType': 'Referee'}, {'official': {'id': 7405, 'fullName': 'Mitch Dunning', 'link': '/api/v1/people/7405'}, 'officialType': 'R
+eferee'}, {'official': {'id': 4620, 'fullName': 'Matt MacPherson', 'link': '/api/v1/people/4620'}, 'officialType': 'Linesman'}, {'official': {'id
+': 7941, 'fullName': 'Jonathan Deschamps', 'link': '/api/v1/people/7941'}, 'officialType': 'Linesman'}]}
